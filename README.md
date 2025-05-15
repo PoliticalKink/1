@@ -1,2 +1,3 @@
 # 1
-app development for political kink
+# app development for political kink
+# not much here for now
