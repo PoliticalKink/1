@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "your_api_key"
+API_KEY = "CONGRESS_API_KEY"
 BASE_URL = "https://api.congress.gov/v3/bill"
 
 def fetch_bills():
